@@ -1,6 +1,5 @@
 %Dip learning Histogram Equalization
-%by Alok Yadav 
-%Dated 10/8/2023
+
 
 close all;
 clear;
